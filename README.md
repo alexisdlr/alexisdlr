@@ -13,15 +13,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-## Lets connect! 😃 
-f="https://linktr.ee/joselatines"><img src="https://img.shields.io/badge/-joselatines-black?logo=linktree&style=flat-square"></a>
-</p>
-
-## My mascot eating my contribution graph 🐍 
-![snake gif](https://github.com/joselatines/alexisdlr/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **alexisdlr/alexisdlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
