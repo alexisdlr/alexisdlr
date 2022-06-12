@@ -2,7 +2,7 @@
 <p>Frontend Developer from :Mexico: specialized in technologies such as JavaScript.<p>
 
 ## About me
-- 💻 I am currently a Freelancer but I am looking to work in a full time job.
+- 💻 I am currently learning ReactJs.
 - 🏆 I'm a native Spanish-speaker, I learned English in my School.
 - 👯 I love learing new things and help others, that's why I write about JavaScript and technology in my social media.
 - 🥅 2022 Goals: Work at high quality company as a Junior Frontend Developer.
