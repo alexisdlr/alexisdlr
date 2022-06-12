@@ -1,5 +1,5 @@
 <h3>Hi, I'm Alexis De León <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
-<p>Frontend Developer from :Mexico: specialized in technologies such as JavaScript.<p>
+<p>Frontend Developer from: Mexico. Specialized in technologies such as JavaScript.<p>
 
 ## About me
 - 💻 I am currently learning ReactJs.
