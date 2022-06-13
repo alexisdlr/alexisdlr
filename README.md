@@ -1,4 +1,4 @@
-<h3>Hi, I'm Alexis De León <img src="https://www.facebook.com/photo.php?fbid=1918218055005967&set=pb.100004533723756.-2207520000..&type=3" width="35"></h3>
+<h3>Hi, I'm Alexis De León</h3>
 <p>Frontend Developer from: Mexico. Specialized in technologies such as JavaScript.<p>
 
 ## About me
