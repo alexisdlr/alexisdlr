@@ -21,7 +21,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
 ## GITHUB STATS
+![All Stats](https://github-readme-stats.vercel.app/api?username=alexisdlr&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexisdlr)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisdlr&layout=compact)
 
