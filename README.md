@@ -7,7 +7,7 @@
 - 💻 I am currently learning ReactJs.
 - 🏆 I'm a native Spanish-speaker, I learned English in my School.
 - 👯 I love learing new things and help others, that's why I write about JavaScript and technology in my social media.
-- 🥅 2022 Goals: Work at high quality company as a Junior Frontend Developer.
+- 🥅 2023 Goals: Work at high quality company as a Junior Frontend Developer.
 - ⚡ Hobbies: Basketball, anime, technology and Music.
 
 ## Languages and Tools 🛠
