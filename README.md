@@ -26,8 +26,7 @@
 
 ## GITHUB STATS
 ![All Stats](https://github-readme-stats.vercel.app/api?username=alexisdlr&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexisdlr)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisdlr&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexisdlr&layout=compact)
 
 <!--
 **alexisdlr/alexisdlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
