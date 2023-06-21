@@ -1,4 +1,8 @@
 <h2>Hi, I'm Alexis De León</h2>
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alxs_dlr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexisdlr) 
+
+
 <h3>Web Developer based in: Mexico</h3>
 <p>Passionate student of Web development with Javascript and Typescript in constant learning</p>
 
