@@ -39,5 +39,3 @@
 </div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=alexisdlr&icon=0&color=6)](https://visitcount.itsvg.in)
