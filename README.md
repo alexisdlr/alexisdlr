@@ -1,14 +1,8 @@
 <h2>Hi, I'm Alexis De León</h2>
-<h3>Web Developer based in: Mexico. Specialized in technologies such as JavaScript.</h3>
-<p>As a self-taught developer for almost 2 years, I love learning new things, my main area of learning is Javascript, I enjoy building sites with technologies like ReactJs, I'm constantly learning, and also improving things I already know, I have experience in Front-end and in Backend.</p>
+<h3>Web Developer based in: Mexico</h3>
+<p>Passionate student of Web development with Javascript and Typescript in constant learning</p>
 
 
-## About me
-- 💻 I am currently learning ReactJs and Nextjs/Typescript.
-- 🏆 I'm a native Spanish-speaker, I learned English in my School.
-- 👯 I love learing new things and help others, that's why I write about JavaScript and technology in my social media.
-- 🥅 2023 Goals: Work at high quality company as a Junior Frontend Developer.
-- ⚡ Hobbies: Technology and Music.
 
 ## Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
