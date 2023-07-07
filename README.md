@@ -32,10 +32,10 @@
 
 
 ## GITHUB STATS
- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexisdlr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisdlr&layout=compact&langs_count=7&theme=dark"/>
- 
+[![Alexis's github stats](https://github-readme-stats.vercel.app/api?username=alexisdlr&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+ <div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexisdlr&layout=compact&langs_count=4&theme=dark"/>
 </div>
 
 ---
