@@ -4,9 +4,7 @@
 
 
 <h3>Web Developer based in: Mexico</h3>
-<p>Passionate student of Web development with Javascript and Typescript in constant learning</p>
-
-
+<p>I'm a young man that loves fitness life, music, working from home and Web development with Javascript and Typescript, always in constant learning</p>
 
 ## Languages and Tools 🛠
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
